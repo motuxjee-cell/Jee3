@@ -1,0 +1,6 @@
+name = "jee3"
+main = "src/index.js"
+compatibility_date = "2026-04-02"
+
+[vars]
+# You can add variables here if needed later
